@@ -20,6 +20,7 @@ int main(void)
     x = 10; // Atribuindo um valor para a varivael (Guardando o valora no espaco da memoria que foi reservado)
 
     int *ponteiro; // Criando um ponteiro do tipo Int
+    int *ponteiro; // Criando um ponteiro do tipo Int ou int *ponteiro = &x
     ponteiro = &x; // Criando um apontamento de ponteiro para a variavel x
 
     //int y = 20;
